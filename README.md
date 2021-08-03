@@ -9,7 +9,7 @@ To see other models from Model Zoo please use link (https://github.com/tensorflo
 
 ### Output
 
-
+![](ezgif.com-gif-maker.gif)
 
 
 
